@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800,900&display=swap');
+*
+{
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    min-height: 100vh;
+    background: linear-gradient(#2b1055,#7597de);
+}
+
+.logo{
+    color: #fff;
+    font-weight: 700;
+    text-decoration: none;
+    font-size: 2em;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+
+.form-label,.form-check-label{
+    color: #fff;
+}
+
+.box{
+    justify-content: center;
+}
+
+.profile .propic{
+    width: 200px;
+    height: 200px;
+}
+.profile .aboutme{
+    text-align: center;
+    color: #fff;
+    display: none;
+}
+.profile .ed{
+    text-align: center;
+    color: #fff;
+}
+
+.sec2 {
+    color: #fff;
+}
+
+.sec2 .sk{
+    text-align: center;
+}
+.sec2 .sec2head{
+    font-weight: 700;
+}
+.sec2 .sec2head2{
+    font-weight: 700;
+}
+
+.sec2 .sec2h3{
+    font-weight: 600;
+}
+
+.sec2 .sk p{
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 50px;
+}
+
+.etc .etc-list{ 
+    color: #fff;
+    font-size: 17px;
+    font-weight: 500;
+    text-align: center;
+}
+
+.etc .lang{
+    color: #fff;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.commentview .txtsh{
+    color: #fff;
+    font-size: 20px;
+    font-weight: 500;
+}
+.commentview .txtshex{
+    color: #fff;
+    font-size: 20px;
+    font-weight: 400;
+}
